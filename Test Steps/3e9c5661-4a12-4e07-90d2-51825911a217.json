@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_172_hon_chim_canh_cut_quy_hiem_bi_dan_on --> navigate to Page_hon-60-chim-canh-cut-quy-hiem-bi-dan-ong-dot-chet_",
+        "step 3: At Page_hon-60-chim-canh-cut-quy-hiem-bi-dan-ong-dot-chet_ click on hyperlink_172_category_social --> navigate to Page_category_social_",
+        "step 4: At Page_category_social_ click on hyperlink_172_trien_khai_du_an_dai_hoc_khong_rac_t --> navigate to Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_",
+        "step 5: Add visual checkpoint at Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_"
+    ]
+}

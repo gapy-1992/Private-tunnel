@@ -1,0 +1,18 @@
+Flow ID,Test Steps,Flow Priority
+3,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_positive_growth --> navigate to Page_positive-growth_
+step 3: At Page_positive-growth_ click on hyperlink_172_category_my_pham --> navigate to Page_category_my-pham_
+step 4: Add visual checkpoint at Page_category_my-pham_",High
+4,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_hon_chim_canh_cut_quy_hiem_bi_dan_on --> navigate to Page_hon-60-chim-canh-cut-quy-hiem-bi-dan-ong-dot-chet_
+step 3: At Page_hon-60-chim-canh-cut-quy-hiem-bi-dan-ong-dot-chet_ click on hyperlink_172_category_social --> navigate to Page_category_social_
+step 4: At Page_category_social_ click on hyperlink_172_trien_khai_du_an_dai_hoc_khong_rac_t --> navigate to Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_
+step 5: Add visual checkpoint at Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_",High
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_test_some_thing --> navigate to Page_test-some-thing_
+step 3: Add visual checkpoint at Page_test-some-thing_",High
+2,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_category_khoa_hoc_suc_khoe --> navigate to Page_category_khoa-hoc-suc-khoe_
+step 3: Add visual checkpoint at Page_category_khoa-hoc-suc-khoe_",Medium
+5,"step 1: Navigate to Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi
+step 2: Add visual checkpoint at Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi",Trivial

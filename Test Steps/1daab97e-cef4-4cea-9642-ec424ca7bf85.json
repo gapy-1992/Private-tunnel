@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_172_test_some_thing --> navigate to Page_test-some-thing_",
+        "step 3: Add visual checkpoint at Page_test-some-thing_"
+    ]
+}

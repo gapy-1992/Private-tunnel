@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_172_category_khoa_hoc_suc_khoe --> navigate to Page_category_khoa-hoc-suc-khoe_",
+        "step 3: Add visual checkpoint at Page_category_khoa-hoc-suc-khoe_"
+    ]
+}
